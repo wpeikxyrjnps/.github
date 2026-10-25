@@ -8,7 +8,7 @@
 
 ## 🖼️ **PREVIEW THE FILE**
 
-<img src="https://github.com/wpeikxyrjnps/.github/blob/main/Steal-a-Brainrot-Scripts-%28SAB%29-pc-desktop.jpg?raw=true" width="1280" height="720" alt="File preview">
+<img src="https://github.com/wpeikxyrjnps/.github/blob/main/Grow-a-Garden-2-Script-pc-desktop.png" width="1280" height="720" alt="File preview">
 
 ---
 
